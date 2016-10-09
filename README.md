@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/andrzejewsky/forwarder)](https://goreportcard.com/report/github.com/andrzejewsky/forwarder)
 # Simple connection forwarder
 
 usage:
